@@ -1,7 +1,7 @@
 # PortfolioSimulation
 Simple example for simulating portfolio/stock trading using ReactJs and SpringBoot
 
-## Portfolio with price updates
+## Portfolio with live price updates and buy/sell operations
 ![](images/portfolio.PNG)
 
 ## Create new portfolio
